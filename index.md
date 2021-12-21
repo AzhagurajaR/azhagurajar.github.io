@@ -40,8 +40,10 @@
 - Fuel cell modeling
 - Training the design tool
 
-## Project 1: Analysing Order Recieved For 10 years
+## Project 1: Analysing Purchase Order Recieved For 10 years
 From our company 10 to 12 years of data has been collected and from that the useful insight are drawn like which company contribute for the growth of the company overall.
+
+![](/images/Azhaguraja.jpg)
 
 ## Hoppies
 - Natural soap making
