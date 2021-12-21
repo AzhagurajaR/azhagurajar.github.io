@@ -3,6 +3,8 @@
 - +91-70928 83867
 - Lives in Mettupalayam, Coimbatore
 
+![](/images/IMG_4527.jpg)
+
 ## Qualification
 - Studied Diploma in Mechanical Engineering
 
@@ -43,12 +45,10 @@ There are few other companies which are not mentioned.
 
 ## Field of interest
 - Designing Bulk handling systems
-- AI and Data science
+- **AI and Data science**
 
 ## Project 1: Analysing Purchase Order Recieved For 10 years
 From our company 10 to 12 years of data has been collected and from that the useful insight are drawn like which company contribute for the growth of the company overall.
-
-![](/images/Azhaguraja.jpg)
 
 ## Hoppies
 - Natural soap making
