@@ -14,7 +14,7 @@
 - Design of Automotive Components
 - Bulk Material handling and screening system - Project Coordination
 
-## Design Tools known
+## Design Tools
 - Creo Parametric
 - AutoCAD
 - Catia
@@ -24,10 +24,11 @@
 2. Hyundai India ltd
 3. Hcl infosystem
 4. Arul Rubbers pvt ltd
+There are few other companies which are not mentioned.
 
 ## Onsite Companies
-- Caterpillar
-- John deere
+- Caterpillar, Chennai
+- John deere, Pune
 
 ## Data Sceience Related courses
 - Learned Python
@@ -39,6 +40,10 @@
 - Wiring harness
 - Fuel cell modeling
 - Training the design tool
+
+## Field of interest
+- Designing Bulk handling systems
+- AI and Data science
 
 ## Project 1: Analysing Purchase Order Recieved For 10 years
 From our company 10 to 12 years of data has been collected and from that the useful insight are drawn like which company contribute for the growth of the company overall.
