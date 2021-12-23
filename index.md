@@ -13,7 +13,7 @@ Worked in various mechanical parametric modeling tools to design components for 
 ## University
 - PACR Polytechnic college, Rajapalayam
 - Persuaing B.Sc. Data Science and programming from IIT Madras - Ongoing
-
+___________________________________________________________________________________________________
 ## Projects
 - Wiring Harness Offroad vehicle
 - Turnkey Coal hadling system
@@ -43,7 +43,7 @@ There are few other companies which are not mentioned.
 - Wiring harness modeling & detailing
 - Fuel cell modeling
 - Training the design tool
-
+_____________________________________________________________________________________________________________________
 ## Data Sceience Related courses(from 2019)
 - Learned Python - Self study
 - Learned all required data science library
@@ -51,11 +51,11 @@ There are few other companies which are not mentioned.
 - Learned Deep leanring from Onefourthlap
 
 ![](/images/DS_cer.PNG)
-
+__________________________________________________________________________________________________________________________
 ## Project 1: Analysing Purchase Order Recieved For 10 years
 From our company 10 to 12 years of data has been collected and from that the useful insight are drawn like which company contribute for the growth of the company overall.
 
-## Training done
+## Training conducted
 - Creo Parametric
 - Solid works
 - MS Office
@@ -63,7 +63,7 @@ From our company 10 to 12 years of data has been collected and from that the use
 ## Field of interest
 - Designing Bulk handling systems
 - **AI and Data science**
-
+_______________________________________________________________________________________________________________________________
 ## Hoppies
 - Natural soap making
 - Bioenzyme making using kitchen waste
