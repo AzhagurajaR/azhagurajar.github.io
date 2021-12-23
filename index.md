@@ -6,11 +6,11 @@
 ![](/images/IMG_4527.jpg)
 
 ## Qualification
-- Studied Diploma in Mechanical Engineering
+- Studied Diploma in Mechanical Engineering - 2003
 
 ## University
-1. PACR Polytechnic college, Rajapalayam - 2003
-2. Persuaing B.Sc. Data Science and programming from IIT Madras - Ongoing
+- PACR Polytechnic college, Rajapalayam
+- Persuaing B.Sc. Data Science and programming from IIT Madras - Ongoing
 
 ## Projects
 - Wiring Harness Offroad vehicle
@@ -21,10 +21,10 @@
 - Design of Automotive Components
 - Bulk Material handling and screening system - Project Coordination
 
-## Design Tools
+## Design Tools woked
 - Creo Parametric
 - AutoCAD
-- Catia
+- Solidworks
 
 ## Companies worked
 1. TVS motor company
@@ -38,7 +38,7 @@ There are few other companies which are not mentioned.
 - John deere, Pune
 
 ## Data Sceience Related courses
-- Learned Python
+- Learned Python - Self study
 - Learned all required data science library
 - Learned Data Science from Onefourthlap
 - Learned Deep leanring from Onefourthlap
