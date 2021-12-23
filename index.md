@@ -12,6 +12,11 @@
 1. PACR Polytechnic college, Rajapalayam - 2003
 2. Persuaing B.Sc. Data Science and programming from IIT Madras - Ongoing
 
+## Projects
+- Wiring Harness Offroad vehicle
+- Turnkey Coal hadling system
+- Solar Air heater
+
 ## Experience - 17 Years
 - Design of Automotive Components
 - Bulk Material handling and screening system - Project Coordination
@@ -39,9 +44,14 @@ There are few other companies which are not mentioned.
 - Learned Deep leanring from Onefourthlap
 
 ## Design Projects
-- Wiring harness
+- Wiring harness modeling & detailing
 - Fuel cell modeling
 - Training the design tool
+
+## Training done
+- Creo Parametric
+- Solid works
+- MS Office
 
 ## Field of interest
 - Designing Bulk handling systems
@@ -52,4 +62,4 @@ From our company 10 to 12 years of data has been collected and from that the use
 
 ## Hoppies
 - Natural soap making
-- Boienzyme making using kitchen waste
+- Bioenzyme making using kitchen waste
