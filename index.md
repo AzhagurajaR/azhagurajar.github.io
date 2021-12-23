@@ -43,6 +43,8 @@ There are few other companies which are not mentioned.
 - Learned Data Science from Onefourthlap
 - Learned Deep leanring from Onefourthlap
 
+![](/images/DS cer.PNG)
+
 ## Design Projects
 - Wiring harness modeling & detailing
 - Fuel cell modeling
