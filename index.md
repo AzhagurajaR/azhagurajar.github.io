@@ -5,6 +5,8 @@
 
 ![](/images/IMG_4527.jpg)
 
+Worked in various mechanical parametric modeling tools to design components for different fields. Explore in the latest technologies applicable in the field of different bulk handling system.
+
 ## Qualification
 - Studied Diploma in Mechanical Engineering - 2003
 
@@ -37,18 +39,21 @@ There are few other companies which are not mentioned.
 - Caterpillar, Chennai
 - John deere, Pune
 
-## Data Sceience Related courses
+## Design Projects
+- Wiring harness modeling & detailing
+- Fuel cell modeling
+- Training the design tool
+
+## Data Sceience Related courses(from 2019)
 - Learned Python - Self study
 - Learned all required data science library
 - Learned Data Science from Onefourthlap
 - Learned Deep leanring from Onefourthlap
 
-![](/images/DS cer.PNG)
+![](/images/DS_cer.PNG)
 
-## Design Projects
-- Wiring harness modeling & detailing
-- Fuel cell modeling
-- Training the design tool
+## Project 1: Analysing Purchase Order Recieved For 10 years
+From our company 10 to 12 years of data has been collected and from that the useful insight are drawn like which company contribute for the growth of the company overall.
 
 ## Training done
 - Creo Parametric
@@ -58,9 +63,6 @@ There are few other companies which are not mentioned.
 ## Field of interest
 - Designing Bulk handling systems
 - **AI and Data science**
-
-## Project 1: Analysing Purchase Order Recieved For 10 years
-From our company 10 to 12 years of data has been collected and from that the useful insight are drawn like which company contribute for the growth of the company overall.
 
 ## Hoppies
 - Natural soap making
