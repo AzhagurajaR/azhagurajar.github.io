@@ -1,4 +1,4 @@
-# ***<font color="green"> Azhaguraja.R </font?***
+# ***<font color="green"> Azhaguraja.R </font>***
 
 <img src="/images/IMG_4527.jpg" width="250" height="300">
 
@@ -10,60 +10,60 @@
 
 Worked in various mechanical parametric modeling tools to design components for different fields. Explored in the field of bulk handling system with the latest intelligent technologies. Done data analysis for plant stopage and Sales activities. Support others to achieve their goal.
 
-## Qualification
+## <font color="orange"> Qualification </font>
 - Studied Diploma in Mechanical Engineering - (YOC: 2003)
 - +2 mathamatics - (YOC: 1999)
 
 <img src="/images/Diploma Certificate.jpeg" width="500" height="700">
 
-## University/College
+## <font color="orange"> University/College </font>
 - [PACR Polytechnic college, Rajapalayam](https://pacrpoly.org/)
 
     > Persuaing online B.Sc. Data Science and programming from ***[IIT Madras](https://onlinedegree.iitm.ac.in/)*** - Ongoing (Foundational Level)
 
-## School
+## <font color="orange"> School </font>
 - R.H.N.U.Thiru. Si.Ba. Aathithanar hr. sec. School, Rayagiri
 
-## Projects Handled
+## <font color="violet"> Projects Handled </font>
 - Turnkey Coal hadling system for Sugars plant
 - LevelJack Assembly for defence organization
 - Freelancing design projects
 - Kaizen Project for automotive company
 
-## Experience: 17 + Years
+## <font color="violet"> Experience: 17 + Years </font>
 - Design of Automotive Components and displays of electronic equipment
 - Bulk Material handling and screening system - Project Coordination
 
-## Companies worked
+## <font color="violet"> Companies worked </font>
 1. TVS motor company
 2. Hyundai India ltd
 3. Hcl infosystem
 4. Arul Rubbers pvt ltd
 
-## Design Tools woked
+## <font color="violet"> Design Tools woked </font>
 - Creo Parametric
 - AutoCAD
 - Solidworks
 - Catia
 
-## Onsite Companies
+## <font color="violet"> Onsite Companies </font>
 - Caterpillar, Chennai - 1 Year
 - John deere, Pune - 6 month
 
-## Design Projects
+## <font color="violet"> Design Projects </font>
 - Wiring harness modeling & detailing
 - PLM activities modeling implementation
 - Phosphating plant
 - Solar air heater
 
-## Data Sceience Related courses Done (from 2018)
+##  <font color="violet"> Data Sceience Related courses Done (from 2018) </font> 
 - Python - Self paced
 - Data Science from _[Onefourthlap](https://padhai.onefourthlabs.in/)_ - self paced
 - Deep leanring from _[Onefourthlap](https://padhai.onefourthlabs.in/)_ - self paced
 
 <img src="/images/DS_cer.PNG" width="700" height="500">
 
-## Training conducted
+## <font color="violet"> Training conducted </font>
 - *Creo Parametric*
 - *Solid works*
 - *Catia*
@@ -71,26 +71,26 @@ Worked in various mechanical parametric modeling tools to design components for 
 - *MS Office*
 - *2S & 3R Activities*
 
-## Training Associated with
+## <font color="violet"> Training Associated with </font>
 - Zri Enterprises, Hosur
 - SRM Training Institute, Hosur
 - CADD Center, Hosur
 - Bimetal Bearing Ltd, Hosur
 
-## Courses Done
+## <font color="violet"> Courses Done </font>
 - Pro Engineer at PACR Ploytechnica College, Rajapalayam
 - NX Unigraphics - Diagonal CAD, Ambatur, Chennai
 - MSC Nastran - Anna university, Chennai
 - Civil CAD - Cadd Center
 
-## Field of interest
+## <font color="violet"> Field of interest </font>
 - *Designing Bulk handling systems*
 - ***AI and Data science***
 - _Data Analysis_
 
 _Prefered work from Home as freelancer or permanent job in the area of design, modeling for different components, plant layout and data analysis, very much interested in coding python. Engineering design of bulk material handling system_
 
-## Hoppies
+## <font color="violet"> Hoppies </font>
 - Rajayoga Meditation from Brahma kumaris
 - Natural soap making at home
 - Bioenzyme preparation using kitchen waste
