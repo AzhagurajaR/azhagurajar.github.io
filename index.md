@@ -7,9 +7,8 @@
 + +91-70928 83867
 + Lives in [Mettupalayam](https://www.google.com/maps/place/Mettupalayam,+Tamil+Nadu/@11.2971581,76.9167304,6645m/data=!3m2!1e3!4b1!4m5!3m4!1s0x3ba8ee9623c506a5:0x3162d68da8ba75f5!8m2!3d11.3027849!4d76.9383385), Coimbatore
 + Home town: Rayagiri
-________________________________________________________________________________________________________________________________________________________________________
+
 Worked in various mechanical parametric modeling tools to design components for different fields. Explored in the field of bulk handling system with the latest intelligent technologies. Done data analysis for plant stopage and Sales activities. Support others to achieve their goal.
-_________________________________________________________________________________________________________________________________________________________________________
 
 ## Qualification
 - Studied Diploma in Mechanical Engineering - (YOC: 2003)
@@ -24,7 +23,6 @@ ________________________________________________________________________________
 
 ## School
 - R.H.N.U.Thiru. Si.Ba. Aathithanar hr. sec. School, Rayagiri
-__________________________________________________________________________________________________________________________________________________________________________
 
 ## Projects Handled
 - Turnkey Coal hadling system for Sugars plant
@@ -57,7 +55,7 @@ ________________________________________________________________________________
 - PLM activities modeling implementation
 - Phosphating plant
 - Solar air heater
-________________________________________________________________________________________________________________________________________________________________________________
+
 ## Data Sceience Related courses Done (from 2018)
 - Python - Self paced
 - Data Science from _[Onefourthlap](https://padhai.onefourthlabs.in/)_ - self paced
@@ -90,7 +88,7 @@ ________________________________________________________________________________
 - ***AI and Data science***
 
 _Prefered work from Home as freelancer or permanent job in the area of design, modeling for different components, plant layout and data analysis, very much interested in coding python. Engineering design of bulk material handling system_
-_______________________________________________________________________________________________________________________________________________________________________________
+
 ## Hoppies
 - Rajayoga Meditation from Brahma kumaris
 - Natural soap making at home
