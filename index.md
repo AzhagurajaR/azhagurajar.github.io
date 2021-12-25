@@ -24,46 +24,46 @@ Worked in various mechanical parametric modeling tools to design components for 
 ## <font color="orange"> School </font>
 - R.H.N.U.Thiru. Si.Ba. Aathithanar hr. sec. School, Rayagiri
 
-## <font color="violet"> Projects Handled </font>
+## <font color="magenta"> Projects Handled </font>
 - Turnkey Coal hadling system for Sugars plant
 - LevelJack Assembly for defence organization
 - Freelancing design projects
 - Kaizen Project for automotive company
 
-## <font color="violet"> Experience: 17 + Years </font>
+## <font color="magenta"> Experience: 17 + Years </font>
 - Design of Automotive Components and displays of electronic equipment
 - Bulk Material handling and screening system - Project Coordination
 
-## <font color="violet"> Companies worked </font>
+## <font color="magenta"> Companies worked </font>
 1. TVS motor company
 2. Hyundai India ltd
 3. Hcl infosystem
 4. Arul Rubbers pvt ltd
 
-## <font color="violet"> Design Tools woked </font>
+## <font color="magenta"> Design Tools woked </font>
 - Creo Parametric
 - AutoCAD
 - Solidworks
 - Catia
 
-## <font color="violet"> Onsite Companies </font>
+## <font color="magenta"> Onsite Companies </font>
 - Caterpillar, Chennai - 1 Year
 - John deere, Pune - 6 month
 
-## <font color="violet"> Design Projects </font>
+## <font color="magenta"> Design Projects </font>
 - Wiring harness modeling & detailing
 - PLM activities modeling implementation
 - Phosphating plant
 - Solar air heater
 
-##  <font color="violet"> Data Sceience Related courses Done (from 2018) </font> 
+##  <font color="magenta"> Data Sceience Related courses Done (from 2018) </font> 
 - Python - Self paced
 - Data Science from _[Onefourthlap](https://padhai.onefourthlabs.in/)_ - self paced
 - Deep leanring from _[Onefourthlap](https://padhai.onefourthlabs.in/)_ - self paced
 
 <img src="/images/DS_cer.PNG" width="700" height="500">
 
-## <font color="violet"> Training conducted </font>
+## <font color="magenta"> Training conducted </font>
 - *Creo Parametric*
 - *Solid works*
 - *Catia*
@@ -71,26 +71,27 @@ Worked in various mechanical parametric modeling tools to design components for 
 - *MS Office*
 - *2S & 3R Activities*
 
-## <font color="violet"> Training Associated with </font>
+## <font color="magenta"> Training Associated with </font>
 - Zri Enterprises, Hosur
 - SRM Training Institute, Hosur
 - CADD Center, Hosur
 - Bimetal Bearing Ltd, Hosur
 
-## <font color="violet"> Courses Done </font>
+## <font color="magenta"> Courses Done </font>
 - Pro Engineer at PACR Ploytechnica College, Rajapalayam
 - NX Unigraphics - Diagonal CAD, Ambatur, Chennai
 - MSC Nastran - Anna university, Chennai
 - Civil CAD - Cadd Center
+- Negitiation skill
 
-## <font color="violet"> Field of interest </font>
+## <font color="magenta"> Field of interest </font>
 - *Designing Bulk handling systems*
 - ***AI and Data science***
 - _Data Analysis_
 
 _Prefered work from Home as freelancer or permanent job in the area of design, modeling for different components, plant layout and data analysis, very much interested in coding python. Engineering design of bulk material handling system_
 
-## <font color="violet"> Hoppies </font>
+## <font color="magenta"> Hoppies </font>
 - Rajayoga Meditation from Brahma kumaris
 - Natural soap making at home
 - Bioenzyme preparation using kitchen waste
