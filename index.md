@@ -91,7 +91,6 @@ ________________________________________________________________________________
 
 _Prefered work from Home as freelancer or permanent job in the area of design, modeling for different components, plant layout and data analysis, very much interested in coding python. Engineering design of bulk material handling system_
 _______________________________________________________________________________________________________________________________________________________________________________
-
 ## Hoppies
 - Rajayoga Meditation from Brahma kumaris
 - Natural soap making at home
