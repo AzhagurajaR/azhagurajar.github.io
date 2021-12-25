@@ -5,9 +5,9 @@
 + <ramasamy.azhaguraja@gmail.com>
 + +91-70928 83867
 + Lives in [Mettupalayam](https://www.google.com/maps/place/Mettupalayam,+Tamil+Nadu/@11.2971581,76.9167304,6645m/data=!3m2!1e3!4b1!4m5!3m4!1s0x3ba8ee9623c506a5:0x3162d68da8ba75f5!8m2!3d11.3027849!4d76.9383385), Coimbatore
-________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________
 Worked in various mechanical parametric modeling tools to design components for different fields. Explore in the latest technologies applicable in the field of different intelligent bulk handling system. Done data analysis for plant stopage and Sales activities. Support others to achieve their goal.
-__________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________
 
 ## Qualification
 - Studied Diploma in Mechanical Engineering - (YOC: 2003)
@@ -15,7 +15,7 @@ ________________________________________________________________________________
 ## University/College
 - [PACR Polytechnic college, Rajapalayam](https://pacrpoly.org/)
 - Persuaing online B.Sc. Data Science and programming from ***[IIT Madras](https://onlinedegree.iitm.ac.in/)*** - Ongoing (Foundational Level)
-___________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________________________
 
 ## Projects Handled
 - Turnkey Coal hadling system for Sugars plant
@@ -40,14 +40,14 @@ ________________________________________________________________________________
 - Catia
 
 ## Onsite Companies
-- Caterpillar, Chennai
-- John deere, Pune
+- Caterpillar, Chennai - 1 Year
+- John deere, Pune - 6 month
 
 ## Design Projects
 - Wiring harness modeling & detailing
 - PLM activiries
 - Phosphating plant
-_____________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________
 ## Data Sceience Related courses (from 2018)
 - Python - Self paced
 - Data Science from Onefourthlap - self paced
@@ -58,14 +58,22 @@ ________________________________________________________________________________
 ## Training conducted
 - *Creo Parametric*
 - *Solid works*
+- *Catia*
 - *Autocad*
 - *MS Office*
 - *2S & 3R Activities*
 
+## Courses Done
+- Pro Engineer
+- NX Unigraphics
+- MSC Nastran
+- Civil CAD
+
 ## Field of interest
 - *Designing Bulk handling systems*
 - ***AI and Data science***
-_______________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________________
 ## Hoppies
 - Natural soap making at home
 - Bioenzyme preparation using kitchen waste
+- Reading books
